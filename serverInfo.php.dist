@@ -1,0 +1,12 @@
+<?php
+
+//Your username on the remote server
+define('USERNAME', '');
+//Your password
+define('PASSWORD', '');
+
+
+//The path to the remote file
+define('URL', 'https://spartacus.iutc3.unicaen.fr/~<login>/remote.php');
+
+?>
